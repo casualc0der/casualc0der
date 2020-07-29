@@ -7,4 +7,4 @@
 
 * Previously worked with Ruby / ROR
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/RBDXLadJCxs6A/giphy.gif)
