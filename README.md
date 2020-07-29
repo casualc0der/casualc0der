@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there and welcome to my profile!  👋
+#### I am a London based developer excited to be looking for a new oppurtunity
 
 
 
 
-  🔭 I’m currently working on a fitness based startup with my brother 🏃
+ *🔭 I’m currently working on a fitness based startup with my brother 🏃
     https://www.resistanceformula.com
-  🌱 I’m currently learning Gatsby, React and JS
+ *🌱 I’m currently learning Gatsby, React and JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
