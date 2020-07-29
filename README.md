@@ -4,9 +4,9 @@
 
 
 
- *🔭 I’m currently working on a fitness based startup with my brother 🏃
+    * I’m currently working on a fitness based startup with my brother 🏃
     https://www.resistanceformula.com
- *🌱 I’m currently learning Gatsby, React and JS
+    * Working with Gatsby, React and JS (and a sprinkling of Ruby on Rails) 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
